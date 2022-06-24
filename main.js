@@ -1,4 +1,4 @@
-function multipliesTwo(num) {
+function multipliesByTwo(num) {
   return num * 2
 }
 
