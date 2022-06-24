@@ -7,3 +7,5 @@ function multipliesTwo(num) {
 function showMsg() {
   return 'Hello There......'
 }
+
+document.body.addEventListener("click", ()=> alert(showMsg()))
