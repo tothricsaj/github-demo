@@ -1,6 +1,4 @@
-console.log("main.js");
-
-function multipliesTwo(num) {
+function multipliesByTwo(num) {
   return num * 2
 }
 
