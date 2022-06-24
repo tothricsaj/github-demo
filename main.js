@@ -9,7 +9,7 @@ function helloWorld() {
 function showMsg() {
   //hi
   console.log(helloWorld());
-  return 'Hello There......'
+  return 'Hello Github demo app......'
 }
 
 document.body.addEventListener("click", function () {
