@@ -1,5 +1,5 @@
 console.log("main.js");
 
-function multipliesTwo(number) {
-  return number * 2
+function multipliesTwo(num) {
+  return num * 2
 }
